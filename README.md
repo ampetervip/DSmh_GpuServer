@@ -1,11 +1,11 @@
 1 HiveOS一键脚本安装
 bash https://raw.githubusercontent.com/ampetervip/DSmh_GpuServer/main/D_Smh.sh
 
-2 Win客户端P盘修改config配置文件中的 path和server选项，如：
+2 Win客户端P盘修改config配置文件中的 path和server选项，
+如：
  path:
-- D:\
-- E:\
-
+ - D:\
+ - E:\
  server:
       - "192.168.1.12:10088"
       - "192.168.1.13:10088"
