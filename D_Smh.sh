@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #开始菜单
 start_setup(){
 cd /home/user/
@@ -7,7 +9,6 @@ unzip spacemesh-miner.zip
 cd spacemesh-miner/
 chmod +777 miner
 echo "yes" | ./miner -gpuServer
-1
 }
 #开始菜单
 start_menu(){
