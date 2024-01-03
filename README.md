@@ -1,7 +1,9 @@
 
 ##  HiveOS 一键脚本安装
 
-**安装命令：**bash https://raw.githubusercontent.com/ampetervip/DSmh_GpuServer/main/D_Smh.sh
+### 安装命令：
+
+bash https://raw.githubusercontent.com/ampetervip/DSmh_GpuServer/main/D_Smh.sh
 
 1 Win 客户端 P 盘修改 config 配置文件中的 path 和 server 选项，如：
 #=================================================================
